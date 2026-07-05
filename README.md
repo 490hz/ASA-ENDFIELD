@@ -24,6 +24,13 @@
 
 ### Player
 - God Mode
+- Always Crit
+- Player Speed
+- Skip Talk
+- Infinite Ultimate Points
+- Instant Character Swap
+- Scan No Cooldown
+- Skip Cutscene
 - Damage Multiplier
 - Hit Multiplier
 - Instant Kill
@@ -34,6 +41,9 @@
 
 ### World
 - Dumb Enemies
+- Chest Vacuum
+- Mob Vacuum
+- Auto Loot
 - Auto Puzzle
 - Teleport
 
@@ -41,9 +51,11 @@
 - FPS Indicator
 - ESP
 - FOV Changer
+- UID Changer
 - Peeking
 
 ### Misc
+- FPS Unlocker
 - Custom Menu Font
 
 ### DX11/DX12 SUPPORTS
