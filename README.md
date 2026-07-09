@@ -43,6 +43,7 @@
 - Dumb Enemies
 - Chest Vacuum
 - Mob Vacuum
+- Auto Destroy
 - Auto Loot
 - Auto Puzzle
 - Teleport
