@@ -25,11 +25,10 @@
 ### Player
 - God Mode
 - Always Crit
+- Kill Aura
 - Player Speed
 - Skip Talk
 - Infinite Ultimate Points
-- Instant Character Swap
-- Scan No Cooldown
 - Skip Cutscene
 - Damage Multiplier
 - Hit Multiplier
@@ -37,6 +36,10 @@
 - Infinite Stamina
 - Infinite Skill Points
 - No Cooldown
+  - No Skills Cooldown
+  - No Ultimate Cooldown
+  - No Character Swap Cooldown
+  - Scan No Cooldown
 - Noclip
 
 ### World
