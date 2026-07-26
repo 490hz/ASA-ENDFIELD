@@ -47,13 +47,36 @@
 - Chest Vacuum
 - Mob Vacuum
 - Auto Destroy
+  - Ore
+  - Breakeble Box
+  - Erosion Core
 - Auto Loot
+  - Chest
+  - Aurylene
+  - Talosite
+  - Collectibles
+  - Plants
+  - Drop
+  - Ore
+  - Protocol Dataloggers
 - Auto Puzzle
 - Teleport
 
 ### Visuals
 - FPS Indicator
 - ESP
+  - Enemy
+  - Chest
+  - Aurylene
+  - Talosite
+  - Ore
+  - Collectibles
+  - Plants
+  - Drop
+  - Challange
+  - Puzzle
+  - Protocol Dataloggers
+  - Misc (DEBUG)
 - FOV Changer
 - UID Changer
 - Peeking
@@ -62,7 +85,7 @@
 - FPS Unlocker
 - Custom Menu Font
 
-### DX11/DX12 SUPPORTS
+### DX11/Vulcan SUPPORTS
 
 ---
 
