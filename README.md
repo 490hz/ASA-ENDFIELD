@@ -26,7 +26,6 @@
 - God Mode
 - Always Crit
 - Kill Aura
-- Player Speed
 - Skip Talk
 - Infinite Ultimate Points
 - Skip Cutscene
@@ -40,6 +39,8 @@
   - No Ultimate Cooldown
   - No Character Swap Cooldown
   - Scan No Cooldown
+- Jump Height
+- Movement Speed
 - Noclip
 
 ### World
