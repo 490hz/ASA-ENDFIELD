@@ -13,6 +13,8 @@
 
 </div>
 
+> [!WARNING]  
+> There is a ban wave here every month if you don't want to got ban you need to donate even minimum amount and you just get warning
 ---
 
 ## Open Menu
