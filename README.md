@@ -14,7 +14,8 @@
 </div>
 
 > [!WARNING]  
-> There is a ban wave here every month if you don't want to got ban you need to donate even minimum amount and you just get warning
+> There's a ban wave here every month. If you don't want to get banned, you need to donate at least a minimum amount-then you'll just get a warning
+              ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 这里每月都有一次封号潮。如果你不想被封，只需捐赠最低金额，就只会收到警告
 ---
 
 ## Open Menu
@@ -26,7 +27,7 @@
 
 ### Player
 - God Mode
-- Always Crit
+- ~~Always Crit~~ patched 
 - Kill Aura
 - Skip Talk
 - Infinite Ultimate Points
@@ -42,6 +43,7 @@
   - No Character Swap Cooldown
   - Scan No Cooldown
 - Jump Height
+- Infinite Air Jump
 - Movement Speed
 - Noclip
 
@@ -63,6 +65,9 @@
   - Ore
   - Protocol Dataloggers
 - Auto Puzzle
+- Remote Depot
+- Zipline Speed
+- Quest Teleport
 - Teleport
 
 ### Visuals
@@ -81,6 +86,8 @@
   - Protocol Dataloggers
   - Misc (DEBUG)
 - FOV Changer
+- Hide UI
+- Max Potential
 - UID Changer
 - Peeking
 
